@@ -8,6 +8,9 @@ export const App = () => {
         <div className='app'>
             <Header/>
 
+
+
+
             <main className={'main'}>main</main>
             <footer className={'footer'}>footer</footer>
         </div>
